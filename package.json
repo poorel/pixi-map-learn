@@ -1,0 +1,34 @@
+{
+  "name": "602-geek-union",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@pixi/filter-bulge-pinch": "^3.1.1",
+    "@pixi/filter-godray": "^3.1.1",
+    "@pixi/filter-simple-lightmap": "^3.1.1",
+    "@pixi/filter-twist": "^3.1.1",
+    "@pixi/filter-zoom-blur": "^3.1.1",
+    "axios": "^0.21.0",
+    "core-js": "^3.7.0",
+    "element-ui": "^2.8.2",
+    "greensock": "^1.20.2",
+    "pixi.js": "^5.3.3",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.0",
+    "@vue/cli-service": "^4.5.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
